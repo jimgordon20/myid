@@ -1,5 +1,5 @@
 # myid
-Send players IDs to discord webhook on join.
+Send players IDs to discord webhook and server console on join.
 
 ![Desktop 2023 10 23 - 05 58 27 01 - frame at 0m1s](https://github.com/jimgordon20/myid/assets/110393030/4da73acd-9480-487e-9eb0-83106913f4e1)
 ![Opera Snapshot_2023-10-23_060906_game iceline host](https://github.com/jimgordon20/myid/assets/110393030/e65708bd-4fb6-4883-ab1d-51be2690cc03)
